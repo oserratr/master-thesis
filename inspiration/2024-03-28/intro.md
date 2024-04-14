@@ -13,6 +13,7 @@
 - Creepypasta, navarrative design and video games
 - Psychedelic rock and aesthetics
 - Rap, 3D visual representations of artist universes
+- New technologies in fashion experimentations
 
 ## Academic resources
 

@@ -8,6 +8,11 @@
 - Narrative design
 - Feminine representation in video games
 - Fashion in video games
+- Sneaker design
+- Deep sea creature ? (insipiration in design?)
+- Creepypasta, navarrative design and video games
+- Psychedelic rock and aesthetics
+- Rap, 3D visual representations of artist universes
 
 ## Academic resources
 
@@ -53,3 +58,5 @@ https://books.google.fr/books?hl=fr&lr=lang_fr&id=YosLCwAAQBAJ&oi=fnd&pg=PA7&dq=
 S Renault - Décision Marketing, 2023.<br />
 **Mon avatar, la mode et moi**<br />
 https://www.cairn.info/revue-decisions-marketing-2023-1-page-35.htm
+
+## Potential research questions

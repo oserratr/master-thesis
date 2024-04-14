@@ -12,8 +12,9 @@
 - Deep sea creature ? (insipiration in design?)
 - Creepypasta, navarrative design and video games
 - Psychedelic rock and aesthetics
-- Rap, 3D visual representations of artist universes
+- Rap, 3D visual representations / scenography of artist universes
 - New technologies in fashion experimentations
+- Animation films
 
 ## Academic resources
 

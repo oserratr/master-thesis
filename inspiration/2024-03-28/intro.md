@@ -62,3 +62,7 @@ S Renault - Décision Marketing, 2023.<br />
 https://www.cairn.info/revue-decisions-marketing-2023-1-page-35.htm
 
 ## Potential research questions
+
+- Comment la 3D est devenue une référence dans la visualisation d'univers musicaux tels que le rap ?
+- L'accessibilité dans les jeux vidéo et leurs dispositifs
+- Comment les codes du jeux vidéos sont repris pour fidéliser une communauté, un groupe d'individu ? (gamification)

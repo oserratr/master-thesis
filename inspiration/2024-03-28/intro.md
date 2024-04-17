@@ -67,23 +67,25 @@ https://www.cairn.info/revue-decisions-marketing-2023-1-page-35.htm
 
 - Comment la 3D est devenue une référence dans la visualisation d'univers musicaux tels que le rap ?
 - L'accessibilité dans les jeux vidéo et leurs dispositifs
-- Comment les codes du jeux vidéos sont repris pour fidéliser une communauté, un groupe d'individu ? (gamification)
 - Narration design et creepypasta
 
 ## Feedback
 
-- ## General comment :
+### General comment :
 
-  - try to formulate things with questions, instead than a list of topics. OR: use hypotheses
-  - open questions are better, especially the one that starts with "how does/can", or "why" (not always easy to find the reasons why though). Avoid questions that can be answered with "yes/no".
-  - don't be too broad: try to turn "big" words ("design", "internet cultures", "nature") into smaller ones (design -> interaction design from community X, "video games" -> a specific kind of video game)
-  - there are different approaches: Approaches studying reality as it is, Approaches studying transformation of reality
-  - think also about the method that can be used to give an answer to your research question: is it feasible? realistic? Depending on the method you choose it can influence your research questions (e.g. "How can open source software contribute to a degrowth transformation?": you can interview practitioners OR analyze existing open source platform aimed at degrowth). Method: qualitative versus quantitative, visual versus verbal, design-oriented versus intellectual
-  - read papers, look for art/design project about your topics... to see if the topic you chose have already been addressed (if not, it's fine you can work on it; if yes, you'll have to adjust your question so that you do not reinvent the wheel!)
+- try to formulate things with questions, instead than a list of topics. OR: use hypotheses
+- open questions are better, especially the one that starts with "how does/can", or "why" (not always easy to find the reasons why though). Avoid questions that can be answered with "yes/no".
+- don't be too broad: try to turn "big" words ("design", "internet cultures", "nature") into smaller ones (design -> interaction design from community X, "video games" -> a specific kind of video game)
+- there are different approaches: Approaches studying reality as it is, Approaches studying transformation of reality
+- think also about the method that can be used to give an answer to your research question: is it feasible? realistic? Depending on the method you choose it can influence your research questions (e.g. "How can open source software contribute to a degrowth transformation?": you can interview practitioners OR analyze existing open source platform aimed at degrowth). Method: qualitative versus quantitative, visual versus verbal, design-oriented versus intellectual
+- read papers, look for art/design project about your topics... to see if the topic you chose have already been addressed (if not, it's fine you can work on it; if yes, you'll have to adjust your question so that you do not reinvent the wheel!)
 
-- ## Specifique comment :
-  - diversité de la 3D dans le monde du rap, comment c'est utilisé
-  - cartographie procedural in narrativ design or accessibility in video games (devices too)
-  - user experiences of speedrunners
-  - gamification : too many papers on this subdjet or take another angle
-  - narration design in creepypasta : look the both side (creator and community)
+### Specific comment :
+
+- diversité de la 3D dans le monde du rap, comment c'est utilisé
+- cartographie procedural in narrativ design or accessibility in video games (devices too)
+- user experiences of speedrunners
+- gamification : too many papers on this subdjet or take another angle
+- narration design in creepypasta : look the both side (creator and community)
+
+## Methods

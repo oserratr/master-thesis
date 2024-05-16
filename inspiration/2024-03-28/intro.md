@@ -87,5 +87,3 @@ https://www.cairn.info/revue-decisions-marketing-2023-1-page-35.htm
 - user experiences of speedrunners
 - gamification : too many papers on this subdjet or take another angle
 - narration design in creepypasta : look the both side (creator and community)
-
-## Methods

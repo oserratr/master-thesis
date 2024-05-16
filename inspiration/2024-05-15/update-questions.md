@@ -59,3 +59,20 @@ Dans quelle mesure l'interaction entre les joueurs et les sims influence-t-elle 
 #### Références
 
 https://fisheyeimmersive.com/article/le-design-3d-une-solution-artistique-dinsertion-pour-les-personnes-en-situation-de-handicap/
+
+# Retours entretien
+
+-> focus sur un jeu, une application ou plusieurs
+-> comment les joueurs vivent cette nostalgie ?
+-> comparaisons
+-> nostalgie media et numérique
+-> nostalgie a partir
+-> nostalgie de ce qu'on a vécu, de l'imaginaire ?
+-> plusieurs types de nostalgie
+-> entre generations nostalgies
+-> nuancer le terme, plusieurs definitions
+-> terme associer a la suisse : medecin melancholie, nouvelle patologie mentale : nostos sentiment, mal du pays
+-> comment différentes formes de nostalgies, comment ça evolue, specificité de l'esthetique
+-> controverses
+
+# References autres

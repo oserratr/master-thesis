@@ -70,16 +70,28 @@ Dans ce témoignage, l'utilisateur souligne les problèmes liés selon lui à ce
 - Tomb Raider (2013) -> Original : Tomb Raider (1996)
 - Mortal Kombat (2011) -> Original : Mortal Kombat (1992)
 
-### Problématique
+### Problématique et champ d'étude
 
-Étudier comment les jeux vidéo qui s'inspirent des esthétiques et des mécaniques des anciens jeux et consoles sont perçus par les joueurs actuels, en analysant comment ces jeux **capitalisent** sur la nostalgie pour attirer un public spécifique.
+1. Etudier les "types" de nostalgies (personnelle, historique?) et ces différentes définitions. Pourquoi/Comment elles se "transmette" entre différentes generations n'ayant pas le même contexte historique ?
 
-- **Comment certains jeux capitalisent sur la nostalgie/technostalgie ?**
+2. Étudier comment les jeux vidéo qui s'inspirent des esthétiques et des mécaniques des anciens jeux et consoles sont perçus par les joueurs actuels. Comment les joueurs **vivent cette nostalgie?**
+
+3. Analyser comment ces jeux **capitalisent** sur la nostalgie pour attirer un public spécifique
+
+4. Etudier/Analyser 2-3 jeux/licences, quelques exemples (à definir):
+   - Les licences de jeux Nintendo tels que **The Legend of Zelda, Metroid, Super Mario Bros.**
+   - Rayman
+   - Les sims
+
+**Comment certains jeux capitalisent sur la nostalgie/technostalgie pour attirer un public spécifique?**
 
 Quelques références :
 
-- [Comment les sentiments nostalgiques affectent les joueurs de Pokémon Go – intégrer la nostalgie de la marque de l'enfance dans la théorie de l'acceptation de la technologie](https://www.tandfonline.com/doi/full/10.1080/0144929X.2019.1662486?scroll=top&needAccess=true)
--
+1. [Comment les sentiments nostalgiques affectent les joueurs de Pokémon Go – intégrer la nostalgie de la marque de l'enfance dans la théorie de l'acceptation de la technologie](https://www.tandfonline.com/doi/full/10.1080/0144929X.2019.1662486?scroll=top&needAccess=true)
+2. [Le joueur du grenier](https://www.youtube.com/@joueurdugrenier)
+3. [Retromedia-in-practice: A practice theory approach for rethinking old and new media technologies](https://journals.sagepub.com/doi/abs/10.1177/1354856519842805)
+4. [Polaroid 2.0. Photo-Objects and Analogue Instant Photography in the Digital Age](https://www.researchgate.net/publication/305266106_Polaroid_20_Photo-Objects_and_Analogue_Instant_Photography_in_the_Digital_Age)
+5. [Nostalgies contemporaines - Emmanuelle Fantin, Sébastien Fevry, **Katharina Niemeyer**](https://www.septentrion.com/FR/livre/?GCOI=27574100484050)
 
 #### Plan de recherche
 
@@ -89,24 +101,6 @@ Quelques références :
 - Analyses de jeux et de studio/entreprises (nintendo par exemple)
 - Articles et livre sur la nostalgie
 
-# Retours entretien
+## Motivation
 
-- focus sur un jeu, une application ou plusieurs
-- comment les joueurs vivent cette nostalgie ?
-- comparaisons
-- nostalgie media et numérique
-- nostalgie a partir
-- nostalgie de ce qu'on a vécu, de l'imaginaire ?
-- plusieurs types de nostalgie
-- entre generations nostalgies
-- nuancer le terme, plusieurs definitions
-- terme associer a la suisse : medecin melancholie, nouvelle patologie mentale : nostos sentiment, mal du pays
-- comment différentes formes de nostalgies, comment ça evolue, specificité de l'esthetique
-- controverses
-
-- cause et consequence de la nostalgie
-- types de nostalgies : personnelle et historique
-
-## Motivation personnelle
-
-nintendo pass online pour jouer a mario 64 et au vieux jeux 64
+Ce sujet m'est venu en ayant moi même un sentiment nostalgique sur des jeux nintendo. Sentiment qui m'as poussé a prendre un abonnement sur ma switch au [**Nintendo switch online**](https://www.nintendo.com/fr-fr/Nintendo-Switch-Online/Nintendo-Switch-Online-Pack-additionnel/Nintendo-Switch-Online-Pack-additionnel-2060571.html) pour acceder aux classiques de la Nintendo 64. Ainsi, je me suis rendue compte de la différence flagrante qu'il y avait entre mes souvenirs et le jeux réel auquel j'etait entrain de jouer.

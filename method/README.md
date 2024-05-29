@@ -93,9 +93,7 @@ Quelques références :
 4. [Polaroid 2.0. Photo-Objects and Analogue Instant Photography in the Digital Age](https://www.researchgate.net/publication/305266106_Polaroid_20_Photo-Objects_and_Analogue_Instant_Photography_in_the_Digital_Age)
 5. [Nostalgies contemporaines - Emmanuelle Fantin, Sébastien Fevry, **Katharina Niemeyer**](https://www.septentrion.com/FR/livre/?GCOI=27574100484050)
 
-#### Plan de recherche
-
-#### Méthode
+### Plan de recherche & Méthode
 
 - Interviews, récolte de témoignages de joueurs
 - Analyses de jeux et de studio/entreprises (nintendo par exemple)

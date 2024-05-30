@@ -30,7 +30,7 @@ J'étais comme déçue, mais en même temps contente de pouvoir rejouer aux jeux
 
 # Points clés, notions du sujet
 
-1. Etudier les "types" de nostalgies (personnelle, historique) et ces différentes définitions/nuancer ces definitions. **Pourquoi/Comment elles se "transmette" entre différentes generations n'ayant pas le même contexte ? (par exemple Pokémon)**
+1. Etudier les "types" de nostalgies (personnelle, historique) et ces différentes définitions/nuancer ces definitions. **Pourquoi/Comment elle se "transmet" entre différentes generations n'ayant pas le même contexte ? (par exemple Pokémon)**
 
 2. Étudier comment les jeux vidéo qui s'inspirent des esthétiques et des mécaniques des anciens jeux et consoles sont perçus par les joueurs actuels. **Comment les joueurs vivent cette nostalgie?**
 

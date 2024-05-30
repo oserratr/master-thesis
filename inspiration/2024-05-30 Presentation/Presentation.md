@@ -72,7 +72,7 @@ J'étais comme déçue, mais en même temps contente de pouvoir rejouer aux jeux
 
 3. User tests ? Plusieurs jeux basés sur la retranscription des interviews, demander à ces mêmes personnes de jouer a des jeux plus récents qui se rapproche de leurs jeux d'enfance
 
-4. Analyses littéraires
+4. Analyses littéraires, lecture d'articles
 
 # References
 

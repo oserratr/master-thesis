@@ -49,7 +49,7 @@ J'étais comme déçue, mais en même temps contente de pouvoir rejouer aux jeux
 
 4. Determiner les différents types de joueurs touchés par cette thématique (joueurs orientés retro-gaming, joueurs réguliers)
 
-# Méthode, processuss
+# Méthode, processus
 
 1. Interviews de differentes personnes : Me permettrais de définir plus précisément quels jeux procurent ce sentiment nostalgique, en croisant les données sur leurs âges, leurs premiers jeux, faire un rapprochement avec les jeux actuels qui jouent sur ce sentiment
 

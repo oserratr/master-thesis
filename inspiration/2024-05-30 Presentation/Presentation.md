@@ -47,14 +47,15 @@ J'étais comme déçue, mais en même temps contente de pouvoir rejouer aux jeux
 
    - Aspect marketing dirigé vers le retro-gaming (Par expl Nintendo)
 
-4. Determiner les différents types de joueurs touchés par cette thématique (joueur orienté retro-gaming, joueur régulier)
+4. Determiner les différents types de joueurs touchés par cette thématique (joueurs orientés retro-gaming, joueurs réguliers)
 
 # Méthode, processuss
 
-1. Interviews de differentes personnes :
+1. Interviews de differentes personnes : Me permettrais de définir plus précisément quels jeux procurent ce sentiment nostalgique, en croisant les données sur leurs âges, leurs premiers jeux, faire un rapprochement avec les jeux actuels qui jouent sur ce sentiment
 
    - Joueurs réguliers [Guide d'interview](../../method/Interview-Guide.md)
-   - Développeur/créateur de jeu vidéo
+   - Créateurs de jeu vidéo (Guide d'interview à venir)
+   - Psychologues ? (Guide d'interview à venir)
 
 2. Etudier/Analyser 2-3 jeux/licences, quelques exemples (à definir):
 
@@ -69,7 +70,9 @@ J'étais comme déçue, mais en même temps contente de pouvoir rejouer aux jeux
      - Resident Evil 2 (2019) -> Original : Resident Evil 2 (1998)
      - The Legend of Zelda: Link's Awakening (2019) -> Original : The Legend of Zelda: Link's Awakening (1993)
 
-3. User tests ?
+3. User tests ? Plusieurs jeux basés sur la retranscription des interviews, demander à ces mêmes personnes de jouer a des jeux plus récents qui se rapproche de leurs jeux d'enfance
+
+4. Analyses littéraires
 
 # References
 

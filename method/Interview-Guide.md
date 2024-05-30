@@ -1,8 +1,12 @@
 # Guide d'interview - Joueurs réguliers
 
+## Presentation
+
 1. Pouvez-vous vous présenter brièvement et nous parler de votre parcours en tant que joueur de jeux vidéo ?
 
 2. Quel est votre premier souvenir atour du jeu vidéo ? Comment cela a-t-il commencé pour vous ?
+
+## Jeux de l'enfance, coeur de la nostalgie
 
 3. Quels étaient vos jeux préférés pendant votre enfance/adolescence ?
 
@@ -11,6 +15,8 @@
 5. Comment percevez-vous l'évolution des jeux vidéo depuis vos premières expériences jusqu'à aujourd'hui ? Quels sont les changements les plus notables selon vous ?
 
 6. Avez-vous des souvenirs particulièrement nostalgiques liés à certains jeux ? Pouvez-vous partager une anecdote ou un moment mémorable liés aux jeux auxquels vous jouiez ?
+
+## Analyse
 
 7. Pourquoi pensez-vous que ces souvenirs sont si marquants ?
 

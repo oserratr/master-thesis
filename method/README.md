@@ -35,7 +35,7 @@ Pascaline Lorentz - 2012.<br />
 
 ### Technostalgie... & jeux vidéo ?
 
-> Ravivez vos souvenirs et créez-en de nouveaux avec la nouvelle expérience rétro-gaming de Nintendo. Nintendo, [Slogan du revival](https://www.nintendo.com/fr-fr/Divers/Nintendo-Classic-Mini-Nintendo-Entertainment-System/Nintendo-Classic-Mini-Nintendo-Entertainment-System-1124287.html)
+> Ravivez vos souvenirs et créez-en de nouveaux avec la nouvelle expérience rétro-gaming de Nintendo. Nintendo, [Slogan du revival de la nintendo classic mini](https://www.nintendo.com/fr-fr/Divers/Nintendo-Classic-Mini-Nintendo-Entertainment-System/Nintendo-Classic-Mini-Nintendo-Entertainment-System-1124287.html)
 
 **Retrogaming** : Un terme englobant l'ensemble des activités liées à la pratique, la collection et l'entretien des anciens jeux vidéo, des consoles rétro et de leurs accessoires, y compris les bornes d'arcade.
 

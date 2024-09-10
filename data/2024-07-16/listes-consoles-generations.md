@@ -7,6 +7,8 @@
 - Magnavox Odyssey (1972)
 - Pong (1972, par Atari)
 - Coleco Telstar (1976)
+- Computer TV Game (1980)
+- Telescore 750 (1977)
 
 _Caractéristiques : Consoles avec des graphismes très simples, souvent en noir et blanc, centrées sur des jeux de type Pong ou similaires._
 
@@ -27,6 +29,7 @@ _Caractéristiques : Apparition de cartouches interchangeables et de graphismes 
 
 - Nintendo Entertainment System (NES) (1983 au Japon, 1985 en Amérique du Nord)
 - Sega Master System (1985)
+- NES Top Loader / NES 2 (1993)
 
 _Caractéristiques : L'ère 8-bits avec des jeux emblématiques comme Super Mario Bros. et The Legend of Zelda._
 
@@ -38,6 +41,7 @@ _Caractéristiques : L'ère 8-bits avec des jeux emblématiques comme Super Mari
 - Super Nintendo Entertainment System (SNES) (1990)
 - Neo Geo (1990)
 - TurboGrafx-16 (1987)
+- Game boy (1989)
 
 _Caractéristiques : Graphismes 16-bits, améliorations sonores et des jeux de plus en plus sophistiqués._
 
@@ -49,6 +53,8 @@ _Caractéristiques : Graphismes 16-bits, améliorations sonores et des jeux de p
 - Nintendo 64 (1996)
 - Sega Saturn (1994)
 - Atari Jaguar (1993)
+- Virtual Boy (1995)
+- 3DO Interactive Multiplayer (1993)
 
 _Caractéristiques : Début des graphismes 3D et CD-ROMs comme support de jeu._
 
@@ -60,6 +66,8 @@ _Caractéristiques : Début des graphismes 3D et CD-ROMs comme support de jeu._
 - Nintendo GameCube (2001)
 - Microsoft Xbox (2001)
 - Sega Dreamcast (1999)
+- PSX (2003)
+- Game boy advance(2001)
 
 _Caractéristiques : Consoles avec capacités internet, graphismes 3D avancés, et l'ère du DVD._
 
@@ -70,6 +78,8 @@ _Caractéristiques : Consoles avec capacités internet, graphismes 3D avancés, 
 - Xbox 360 (2005)
 - Sony PlayStation 3 (2006)
 - Nintendo Wii (2006)
+- PSP (2005)
+- Nintendo DS lite (2006)
 
 _Caractéristiques : Consoles haute définition, services en ligne, jeux multi-plateformes, et motion gaming (Wii)._
 
@@ -82,7 +92,7 @@ _Caractéristiques : Consoles haute définition, services en ligne, jeux multi-p
 - Nintendo Switch (2017)
 - Wii U (2012)
 
-_Caractéristiques : Jeux en 4K, streaming, et expérience de jeu multiplateforme avec une forte connectivité en ligne._
+_Caractéristiques : Jeux en 4K, streaming, et expérience de jeu multiplateforme/en ligne._
 
 ## 9ème Génération (2020 - présent)
 
@@ -99,5 +109,3 @@ _Caractéristiques : Jeux en 4K et 8K, temps de chargement ultra-rapides grâce 
 2. Génération X / Millennials : 3ème à 5ème génération (années 1980-1990).
 3. Millennials / Génération Z : 6ème à 8ème génération (fin des années 1990 à 2020).
 4. Génération Z / Génération Alpha : 9ème génération (depuis 2020).
-
-Chaque génération a vu des progrès considérables en termes de technologie et d'expériences de jeu.

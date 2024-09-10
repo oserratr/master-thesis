@@ -2,7 +2,7 @@
 
 Suite aux première connaissance que j'ai pu avoir en naviguant sur les différentes plateformes [cités](/data/2024-07-25/recherche-communautes-internet.md), je me suis rendue compte que malgrés toutes les informations que j'ai reussi a avoir je n'ai pas pu creusé plus cette partie. Je pense qu'il serait donc necessaire de faire plusieurs interviews.
 
-## Structure, questionnement pour un futur guide d'interview
+## Structure, questionnement pour un futur [guide d'interview](/method/2024-08-16/Interview-guide-communaute-web.md)
 
 ### Nostalgie vs. Curiosité
 

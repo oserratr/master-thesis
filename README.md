@@ -13,7 +13,7 @@ attirer un public spécifique ?
 
 [Mindmap des différentes parties/sous-parties (de départ) autour du sujet](https://miro.com/app/board/uXjVKhYg48E=/?share_link_id=921800458674).
 
-### Références
+### Références & Bibliographie
 
 [Bibliothèque d'articles, projets, et références intéressantes et importantes](https://raindrop.io/oceane-srt77/thesis-media-design-2024-47653655)
 
@@ -21,3 +21,21 @@ attirer un public spécifique ?
 
 - https://sci-hub.usualwant.com/
 - https://elicit.com/
+
+## Navigation GIT
+
+### DATA
+
+[Données de recherches](/data/)
+
+### INSPIRATION
+
+[Point de départ, recherche de thématique et sujet](/inspiration/)
+
+### METHOD
+
+[Méthodologie de recherche, écriture de guide d'interviews, d'evolution de recherche](/method/)
+
+### OUTPUT
+
+[Résultats et analyse des données de recherche](/output/)

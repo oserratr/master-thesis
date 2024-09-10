@@ -16,4 +16,3 @@
 - cause et consequence de la nostalgie
 - types de nostalgies : personnelle (propre vécu par exemple enfance) et historique (epoque qu'on a pas vécu personnellement) : les 2 peuvents se rencontrer
 - nostalgie : inportance dans construction de soit même, voir evolution et différence. permet d'avoir un point de repère. appartenance a un groupe, permet de se connecter avec d'autres gens. retrouver le monde d'avant.
--

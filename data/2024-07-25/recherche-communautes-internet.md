@@ -42,21 +42,11 @@ _**DEFINITION :** L'émulation est le processus de reproduire le fonctionnement 
 
 ## Retro Gaming
 
-_**DEFINITION :** Le rétrogaming est la pratique de jouer à des jeux vidéo anciens ou rétro, souvent sur des consoles ou ordinateurs d'époque, ou via des émulateurs, généralement pour des raisons de nostalgie ou d'intérêt pour l'histoire du jeu vidéo.
-_
+_**DEFINITION :** Le rétrogaming est la pratique de jouer à des jeux vidéo anciens ou rétro, souvent sur des consoles ou ordinateurs d'époque, ou via des émulateurs, généralement pour des raisons de nostalgie ou d'intérêt pour l'histoire du jeu vidéo._
 
 **Liste non exhaustive de jeux retro le plus joués**
 
-- [RetroArch](https://www.retroarch.com/) qui est un logiciel open-source qui sert de plateforme unifiée pour émuler divers systèmes de jeux vidéo classiques. Plutôt que d'être un émulateur spécifique, RetroArch utilise un système de "cores", qui sont des modules séparés, chacun dédié à l'émulation d'une console ou d'un matériel particulier (comme la Super Nintendo, la PlayStation, etc.). En plus de l'émulation, RetroArch offre des fonctionnalités avancées, telles que :
-
-      - Sauvegarde/chargement des parties à tout moment.
-      - Améliorations graphiques (comme les shaders pour améliorer l’apparence des jeux).
-      - Compatibilité avec de nombreux périphériques (manettes, claviers).
-      - Support du multijoueur en ligne pour certains jeux classiques.
-
-  _C'est une solution polyvalente pour ceux qui souhaitent jouer à d'anciens jeux sur des plateformes modernes._
-
-- [Dolphin Emulator](https://fr.dolphin-emu.org/download/?cr=fr) est un émulateur qui permet de jouer à des jeux GameCube et Wii sur ordinateur (Windows, macOS, Linux) et Android. Il reproduit le fonctionnement de ces consoles, offrant la possibilité de jouer à des jeux avec des améliorations graphiques et de performance. Dolphin propose des versions stables (plus fiables) et des versions de développement (avec les dernières fonctionnalités mais potentiellement instables). C'est un outil populaire pour les fans de jeux rétro, avec des fonctionnalités comme la haute définition et le multijoueur en ligne.
+(mettre a j)
 
 ### Reddit
 

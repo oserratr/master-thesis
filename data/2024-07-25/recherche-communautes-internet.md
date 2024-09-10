@@ -44,9 +44,7 @@ _**DEFINITION :** L'émulation est le processus de reproduire le fonctionnement 
 
 _**DEFINITION :** Le rétrogaming est la pratique de jouer à des jeux vidéo anciens ou rétro, souvent sur des consoles ou ordinateurs d'époque, ou via des émulateurs, généralement pour des raisons de nostalgie ou d'intérêt pour l'histoire du jeu vidéo._
 
-**Liste non exhaustive de jeux retro le plus joués**
-
-(mettre a j)
+[**Liste non exhaustive de jeux retro le plus joués**](/data/2024-08-24/List-games-retrogaming.md)
 
 ### Reddit
 

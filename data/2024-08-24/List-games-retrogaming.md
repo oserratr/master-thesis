@@ -5,6 +5,7 @@
 - Super Mario Bros. : Icône de l'ère 8-bits, très joué et émulé.
 - The Legend of Zelda : L'un des premiers jeux d'aventure en monde ouvert.
 - Mega Man 2 : Jeu d'action-plateforme très apprécié pour sa difficulté.
+- Duck Hunt
 
 ## SNES (Super Nintendo Entertainment System)
 
@@ -29,6 +30,7 @@
 - Final Fantasy VII : Très souvent émulé pour sa portée et son influence dans le genre RPG.
 - Castlevania: Symphony of the Night : Considéré comme l’un des meilleurs jeux de tous les temps pour son gameplay et sa bande son.
 - Metal Gear Solid : Pionnier du genre action-infiltration avec une forte influence narrative.
+- Carmageddon (1997)
 
 ## Nintendo 64
 
@@ -40,3 +42,14 @@
 
 - Street Fighter II : Extrêmement populaire dans les émulateurs d'arcade pour ses combats compétitifs.
 - Pac-Man : Un classique incontournable qui continue d'être émulé.
+- Tetris
+- Pong
+
+## Aamiga / PC
+
+- The Secret of Monkey Island (1990)
+- Flashback (1992)
+
+## Dreamcast
+
+- Heroes of Might and Magic III: The Restoration of Erathia (1999)

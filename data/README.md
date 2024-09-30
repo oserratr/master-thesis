@@ -11,8 +11,9 @@
 - Insight d'articles traitant de la nostalgie : [2024-08-05](/data/2024-08-05/insight-articles.md)
 - Contexte historique pour les generations de consoles (à venir)
 - Interviews première vague :
-  - [V. , 27 ans](/data/2024-09-12/Interview-v1-V.md)
-- Insights interviews : [2024-09-12](/data/2024-09-12/Insights-interviews.md)
+  - [V. , 27 ans](/data/2024-09-12-to-2024-09-17/Interview-v1-V.md)
+  - [O. , 24 ans](/data/2024-09-12-to-2024-09-17/Interview-v1-O.md)
+- Insights interviews : [2024-09-12 to 2024-09-17](/data/2024-09-12-to-2024-09-17/Insights-interviews.md)
 
 ## Evolution de la problématique du mémoire
 

@@ -15,6 +15,10 @@
   - [O. , 24 ans](/data/2024-09-12-to-2024-09-17/Interview-v1-O.md)
 - Insights interviews : [2024-09-12 to 2024-09-17](/data/2024-09-12-to-2024-09-17/Insights-interviews.md)
 
+## Design, inspiration retro
+
+- Analyse esthétiques retro : [2024-09-30](/data/2024-09-30/Essort-esthetique-retro.md)
+
 ## Evolution de la problématique du mémoire
 
 1. **Comment les jeux indépendants actuels exploitent-ils la technostalgie pour attirer un public spécifique ?** :

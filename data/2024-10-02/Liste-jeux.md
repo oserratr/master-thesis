@@ -1,0 +1,33 @@
+# Bibliothèque des jeux cités
+
+Voici une liste des jeux cités dans le document :
+
+- **Cave Story**
+- **Spelunky**
+- **Silent Hill**
+- **A Hat In Time**
+- **Metroid**
+- **Castlevania**
+- **Shadow Complex**
+- **Dust: An Elysian Tale**
+- **Guacamelee**
+- **Xeodrifter**
+- **Axiom Verge**
+- **Ori and the Blind Forest**
+- **Hollow Knight**
+- **Blasphemous**
+- **The Messenger**
+- **The Last Faith**
+- **Nine Sols**
+- **Bloodstained: Ritual of the Night**
+- **Ori and the Will of the Wisps**
+- **Metroid Dread**
+- **Prince of Persia: The Lost Crown**
+- **Yoku's Island Express**
+- **Laika: Aged Through Blood**
+- **Devil May Cry**
+- **Sekiro**
+- **Super Metroid**
+- **Animal Well**
+- **The Witness**
+- **Outer Wilds**

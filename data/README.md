@@ -22,7 +22,7 @@
 
 ## Design, inspiration retro
 
-- Analyse esthétiques retro : [2024-09-30](/data/2024-09-30/Essort-esthetique-retro.md)
+- Analyse esthétiques et design retro : [2024-09-30](/data/2024-09-30/Essort-esthetique-retro.md)
 - Liste de jeux / références : [2024-10-02](/data/2024-10-02/Liste-jeux.md)
 
 ## Evolution de la problématique du mémoire

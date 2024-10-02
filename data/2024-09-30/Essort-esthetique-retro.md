@@ -1,4 +1,4 @@
-# Retour des anciennes esthétiques
+# Retour d'anciens design
 
 ## Graphisme
 

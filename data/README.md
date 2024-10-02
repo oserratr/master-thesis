@@ -8,7 +8,7 @@
 
 ## Technostalgie definition
 
-- Insight d'articles traitant de la nostalgie : [2024-08-05](/data/2024-08-05/insight-articles.md) | [](/data/2024-10-01/technostalgie-articles.md)
+- Insight d'articles traitant de la nostalgie : [2024-08-05](/data/2024-08-05/insight-articles.md) | [2024-10-01](/data/2024-10-01/technostalgie-articles.md)
 - Contexte historique pour les generations de consoles (à venir)
 - Interviews première vague :
 

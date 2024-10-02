@@ -1,7 +1,5 @@
 # Bibliothèque des jeux cités
 
-Voici une liste des jeux cités dans le document :
-
 - **Cave Story**
 - **Spelunky**
 - **Silent Hill**

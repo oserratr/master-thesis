@@ -10,7 +10,7 @@
     - Spelunky
   - Jeux de puzzle
   - Jeux d'action
-- De nombreux jeux ont adopté le pixel art, on peut parler de High bit era : désigne un style de pixel art moderne qui reprend l'esthétique des jeux 8-bit et 16-bit, mais avec des détails beaucoup plus fins et une palette de couleurs plus riche, libérée des limitations techniques d'origine. Elle réinvente le rétro avec les technologies actuelles, tout en conservant l'esprit des jeux classiques.
+- De nombreux jeux ont adopté le pixel art, on peut parler de Hi-bit era : désigne un style de pixel art moderne qui reprend l'esthétique des jeux 8-bit et 16-bit, mais avec des détails beaucoup plus fins et une palette de couleurs plus riche, libérée des limitations techniques d'origine. Elle réinvente le rétro avec les technologies actuelles, tout en conservant l'esprit des jeux classiques.
 
 En résumé, c'est une réinterprétation moderne du pixel art classique, qui exploite la technologie actuelle pour créer des jeux visuellement plus sophistiqués, tout en s'inspirant des esthétiques des générations précédentes.
 
@@ -34,36 +34,83 @@ En résumé, c'est une réinterprétation moderne du pixel art classique, qui ex
 
 - Culture du block out dans les studios pour tester et itérer rapidement sur la conception des niveaux.
 
-#### Les jeux d'horreur
+## Gameplay / Types de jeux
+
+### Les jeux d'horreur
 
 - _Signalis_, un jeu de survival horror sorti fin 2022, s'inspire de jeux comme _Silent Hill_ et _Resident Evil_, avec des mécaniques de gameplay et des éléments d'atmosphère similaires.
 
-- _Signalis_ se distingue de ses inspirations en intégrant des éléments de gameplay modernes, comme des contrôles plus fluides et une caméra en vue de dessus, tout en conservant des éléments classiques du survival horror tels que la gestion limitée de l’inventaire.
+  - se distingue de ses inspirations en intégrant des éléments de gameplay modernes, comme des contrôles plus fluides et une caméra en vue de dessus, tout en conservant des éléments "classiques" du survival horror tels que la gestion limitée de l’inventaire.
 
-- La résurgence des jeux inspirés de l'ère PlayStation 1 va au-delà de _Signalis_, avec des communautés comme Haunted PS1 qui organisent et présentent une grande variété de jeux avec des esthétiques et des mécaniques de gameplay similaires.
+- La résurgence des jeux inspirés de l'ère PlayStation 1 va au-delà de _Signalis_, avec des communautés comme [Haunted PS1](https://hauntedps1.itch.io/) qui organisent et présentent une grande variété de jeux avec des esthétiques et des mécaniques de gameplay similaires.
 
-#### Les platformers 3D
+### Les platformers 3D
 
-La popularité des jeux de plateformes 3D, en particulier ceux mettant en scène des mascottes colorées aux capacités uniques, a explosé dans les années 90, avec des titres comme _Crash Bandicoot_, _Spyro_, _Banjo-Kazooie_, et _Mario 64_.
+- La popularité des jeux de plateformes 3D, en particulier ceux mettant en scène des mascottes colorées aux capacités uniques, a explosé dans les années 90, avec des titres comme _Crash Bandicoot_, _Spyro_, _Banjo-Kazooie_, et _Mario 64_.
 
-Le genre a connu un déclin à l'ère de la PlayStation 2, les jeux basés sur des mascottes devenant moins fréquents et l’accent se déplaçant vers les jeux d'action et de tir.
+  - a connu un déclin à l'ère de la PlayStation 2, les jeux basés sur des mascottes devenant moins fréquents et l’accent se déplaçant vers les jeux d'action et de tir.
 
-Une résurgence des platformers 3D a émergé sur la scène des jeux indépendants vers le milieu des années 2010, avec des jeux comme _Yooka-Laylee_ et _A Hat In Time_ s’inspirant des classiques du genre.
+- Une résurgence des platformers 3D a émergé sur la scène des jeux indépendants vers le milieu des années 2010, avec des jeux comme _Yooka-Laylee_ et _A Hat In Time_ s’inspirant des classiques du genre.
 
-#### Les boomer-shooters
+### Les boomer-shooters
 
-Les jeux de tir à la première personne (FPS) ont subi des changements importants au milieu des années 2000, incorporant davantage d'éléments cinématographiques, des mondes plus vastes, et des dialogues avec des personnages non-joueurs (PNJ).
+- Les FPS ont subi des changements importants au milieu des années 2000, incorporant davantage d'éléments cinématographiques, des mondes plus vastes, et des dialogues avec des PNJ.
 
-La popularité de jeux FPS comme _Rise of the Triad_ (2013), un remake du jeu de 1995, et _Dusk_ (2018) a inspiré une nouvelle vague de jeux FPS rappelant ceux des années 90, appelés "boomer shooters".
+- La popularité de jeux FPS comme _Rise of the Triad_ (2013), un remake du jeu de 1995, et _Dusk_ (2018) a inspiré une nouvelle vague de jeux FPS rappelant ceux des années 90, appelés "boomer shooters".
 
-Les boomer shooters s’inspirent souvent de jeux comme _Doom_ et _Quake_, avec des niveaux labyrinthiques, des combats rapides et un accent sur le mouvement et la gestion des ressources.
+  - Ils s’inspirent souvent de jeux comme _Doom_ et _Quake_, avec des niveaux labyrinthiques, des combats rapides et un accent sur le mouvement et la gestion des ressources.
 
-#### Les jeux d'aventure
-
-L'intervenant se concentrera sur les jeux d'aventure à la première personne, similaires aux RPG.
+### Les jeux d'aventure
 
 Ce genre n’était pas très représenté dans le passé et reste relativement rare aujourd'hui.
+(a chercher)
 
-Malgré cela, il y a eu quelques sorties récentes dans ce style dans le cadre d'une renaissance.
+### Les Metroidvania
 
-#### Les metroides
+- Ce terme a été inventé pour décrire des jeux qui combinaient les éléments clés des séries Metroid et Castlevania, comme l'exploration, les améliorations et un monde progressivement interconnecté.
+
+- Suite au succès de Shadow Complex, les développeurs de jeux indé ont commencé à créer des metroidvanias.
+
+  - Parmi les jeux notables de cette période, on trouve Dust: An Elysian Tale, Guacamelee, Xeodrifter, et une réédition de Cave Story.
+
+  - quelques metroidvanias indépendants : Axiom Verge et Ori and the Blind Forest. Axiom Verge, un hommage acclamé à Metroid, tandis que Ori and the Blind Forest, un succès commercial.
+
+  - Suite au succès de Axiom Verge et Ori and the Blind Forest, de nombreux autres Metroidvanias ont vu le jour, comme SteamWorld Dig 2, Iconoclast, The Messenger, Hollow Knight, Blasphemous, Blasphemous 2, Guacamelee 2, Axiom Verge 2, The Last Faith, Nine Sols, et Bloodstained: Ritual of the Night.
+
+> De plus grands studios de jeux ont également développé des Metroidvanias durant cette période, comme Ori and the Will of the Wisps de Moon Studios, Metroid Dread de Nintendo, et Prince of Persia: The Lost Crown d'Ubisoft.
+
+> Les Metroidvanias en 2D traditionnels ont considérablement amélioré leur aspect platforming au cours des 10 dernières années.
+
+    - mouvements plus nuancés, un contrôle de la vitesse et des manœuvres aériennes.
+
+    - mécaniques de gameplay uniques dans les Metroidvanias : par exemple, Yoku's Island Express utilise des mécaniques de flipper, et Laika, Aged Through Blood propose un système de mouvement basé sur une moto.
+
+    - proposent souvent des combats plus intenses et stylisés, incorporant des mécaniques contemporaines comme les esquives et les parades : metroid Dread et Prince of Persia illustrent ces mécaniques.
+
+- Certains metroidvanias modernes ont adopté des éléments de combat issus de jeux comme Devil May Cry et Sekiro : par exemple, Nine Sols présente différents types de parades inspirés de Sekiro.
+
+- Les combats de boss se sont améliorés.
+
+  - Des jeux comme Hollow Knight offrent des combats de boss bien conçus avec des schémas d'attaque lisibles et des opportunités de contre-attaques.
+
+- Integration des éléments RPG, tels que des arbres de compétences et des systèmes de charmes. Ces éléments permettent aux joueurs de personnaliser leur style de jeu et de s'adapter à différentes situations.
+
+- Alors que l’aspect d’exploration des Metroidvanias reste similaire aux classiques comme Super Metroid, les entrées modernes présentent parfois des cartes plus vastes. Qui peut entraîner un temps de jeu plus long.
+
+- Animal Well : Un mélange de Metroidvania et "Metroidbrainia"
+
+  - Le jeu met les joueurs au défi avec des énigmes environnementales à la fois dans les pièces individuelles et dans le monde du jeu plus vaste.
+
+  - Le jeu propose divers objets, comme un frisbee et un ressort, qui offrent des façons uniques d'interagir avec le monde et de résoudre des énigmes.
+
+  - encourage l'expérimentation, car les objets ont des fonctions à la fois évidentes et cachées, menant à des expériences de jeu différentes et permettant des sauts de séquence.
+
+  - Le terme "Metroidbrainia" a été utilisé pour décrire des jeux comme The Witness et Outer Wilds, qui présentent une conception de monde interconnecté similaire aux Metroidvanias, mais où la progression est basée sur l'acquisition de connaissances plutôt que d'objets.
+
+### Les Roguelike
+
+#### Sources
+
+> [Le retour de la 3D moche](https://youtu.be/fJkWOfPTkDI?si=TuIAyDJn_yNvbN-q)
+
+> [L'ÂGE D'OR du METROIDVANIA (?)](https://youtu.be/UQ0gMrQLDRg?si=AiAYl5xUwqycyFLd)

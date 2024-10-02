@@ -33,3 +33,37 @@ En résumé, c'est une réinterprétation moderne du pixel art classique, qui ex
   - Les faux temps de chargement faisaient également partie de l’expérience.
 
 - Culture du block out dans les studios pour tester et itérer rapidement sur la conception des niveaux.
+
+#### Les jeux d'horreur
+
+- _Signalis_, un jeu de survival horror sorti fin 2022, s'inspire de jeux comme _Silent Hill_ et _Resident Evil_, avec des mécaniques de gameplay et des éléments d'atmosphère similaires.
+
+- _Signalis_ se distingue de ses inspirations en intégrant des éléments de gameplay modernes, comme des contrôles plus fluides et une caméra en vue de dessus, tout en conservant des éléments classiques du survival horror tels que la gestion limitée de l’inventaire.
+
+- La résurgence des jeux inspirés de l'ère PlayStation 1 va au-delà de _Signalis_, avec des communautés comme Haunted PS1 qui organisent et présentent une grande variété de jeux avec des esthétiques et des mécaniques de gameplay similaires.
+
+#### Les platformers 3D
+
+La popularité des jeux de plateformes 3D, en particulier ceux mettant en scène des mascottes colorées aux capacités uniques, a explosé dans les années 90, avec des titres comme _Crash Bandicoot_, _Spyro_, _Banjo-Kazooie_, et _Mario 64_.
+
+Le genre a connu un déclin à l'ère de la PlayStation 2, les jeux basés sur des mascottes devenant moins fréquents et l’accent se déplaçant vers les jeux d'action et de tir.
+
+Une résurgence des platformers 3D a émergé sur la scène des jeux indépendants vers le milieu des années 2010, avec des jeux comme _Yooka-Laylee_ et _A Hat In Time_ s’inspirant des classiques du genre.
+
+#### Les boomer-shooters
+
+Les jeux de tir à la première personne (FPS) ont subi des changements importants au milieu des années 2000, incorporant davantage d'éléments cinématographiques, des mondes plus vastes, et des dialogues avec des personnages non-joueurs (PNJ).
+
+La popularité de jeux FPS comme _Rise of the Triad_ (2013), un remake du jeu de 1995, et _Dusk_ (2018) a inspiré une nouvelle vague de jeux FPS rappelant ceux des années 90, appelés "boomer shooters".
+
+Les boomer shooters s’inspirent souvent de jeux comme _Doom_ et _Quake_, avec des niveaux labyrinthiques, des combats rapides et un accent sur le mouvement et la gestion des ressources.
+
+#### Les jeux d'aventure
+
+L'intervenant se concentrera sur les jeux d'aventure à la première personne, similaires aux RPG.
+
+Ce genre n’était pas très représenté dans le passé et reste relativement rare aujourd'hui.
+
+Malgré cela, il y a eu quelques sorties récentes dans ce style dans le cadre d'une renaissance.
+
+#### Les metroides

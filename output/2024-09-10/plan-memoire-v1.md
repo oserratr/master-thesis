@@ -15,6 +15,12 @@
    - Enquête sur internet,
    - User testing,
 
+## Design
+
+1. Esthétique / graphisme
+2. Sound design
+3. Gameplay
+
 ## Comunauté (Education, transmition)
 
 1. Retro gaming
@@ -29,12 +35,6 @@
 1. Aspect marketing
 2. Les reboots & remakes
 3. Les jeux indies
-
-## Design
-
-1. Esthétique / graphisme
-2. Sound design
-3. Gameplay
 
 ## Etude de cas
 

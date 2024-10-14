@@ -161,3 +161,9 @@ J'ai commencer a faire mes recherches sur internet pour trouver des communautés
 ## Plan & ecriture
 
 [plan V1](/output/2024-09-10/plan-memoire-v1.md)
+
+## Retours presentation
+
+- reprendre element / evolution de types de rendu, du jeu video,
+- identifier plusieurs sous-theme
+- voir pour recentrer avec pixel art eventuellement ou sur la partie esthetique des anciens jeux vidéos
